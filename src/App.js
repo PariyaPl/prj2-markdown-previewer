@@ -4,7 +4,7 @@ import './App.css';
 
 const initial = `
 # Pariya's React Markdown Previewer!
-Before we start, check out [my personal website](https://www.freecodecamp.org)!
+Before we start, check out [my personal website](https://pariyapl.github.io/PariyaPl/)!
 
 ## This page is project no.2 for the frontend course
 ![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
